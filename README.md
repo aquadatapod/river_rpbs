@@ -15,7 +15,7 @@ The main purpose of this repository is to provide a transparent and reproducible
 ## Contents
 
 - `data/` – Raw and processed datasets used for analyses.  
-- `code/` – R or Python scripts used for data cleaning, SOM, indicator taxa, community analyses, and figure generation.  
+- `code/` – R scripts used for data cleaning, SOM, indicator taxa, community analyses, and figure generation.  
 - `figures/` – Output figures generated from the analysis.  
 - `README.md` – Overview of the repository, its purpose, and instructions.
 
