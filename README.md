@@ -33,7 +33,7 @@ This repository is intended for academic and research purposes. Users can:
 
 If you use this dataset, please cite it as:
 
-> aquadatapod. (2025). aquadatapod/river_rpbs: River RPBS an Macronvertebrates (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17207303
+> aquadatapod. (2025). aquadatapod/river_rpbs: River RPBS and Macroinvertebrates (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17207303
 
 ## Notes
 
