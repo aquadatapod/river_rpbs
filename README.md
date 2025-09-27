@@ -1,5 +1,7 @@
 # Repository Overview
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17207302.svg)](https://doi.org/10.5281/zenodo.17207302)
+
 This repository contains data, analysis scripts, and visualizations associated with a scientific study on **macroinvertebrate communities in naturally occurring RPBS mesohabitats from warm-temperate rivers**. The materials support the findings and methods reported in a manuscript prepared for submission to a scientific journal.
 
 ## Purpose
@@ -26,6 +28,12 @@ This repository is intended for academic and research purposes. Users can:
 1. Explore the macroinvertebrate datasets.  
 2. Run the analysis scripts.  
 3. Reproduce the figures and results reported in the corresponding manuscript.
+
+## Citation
+
+If you use this dataset, please cite it as:
+
+> aquadatapod. (2025). aquadatapod/river_rpbs: River RPBS an Macronvertebrates (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17207303
 
 ## Notes
 
