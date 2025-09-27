@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17207302.svg)](https://doi.org/10.5281/zenodo.17207302)
 
-This repository contains data, analysis scripts, and visualizations associated with a scientific study on **macroinvertebrate communities in naturally occurring RPBS mesohabitats from warm-temperate rivers**. The materials support the findings and methods reported in a manuscript prepared for submission to a scientific journal.
+This repository contains data, analysis scripts, and visualizations associated with a scientific study on **macroinvertebrate communities in naturally occurring RPBS mesohabitats from warm-temperate river**. The materials support the findings and methods reported in a manuscript prepared for submission to a scientific journal.
 
 ## Purpose
 
